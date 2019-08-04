@@ -1,4 +1,4 @@
-# dev-here
+﻿# dev-here
 
 Given Task:
 
@@ -40,3 +40,6 @@ to run through both services and ui give CucumberOptions as  -> tags = {"@all_sc
 Once test runs we can see target folder generated.
 
 open the "developer-here/target/cucumber-reports/index.html" in a browser to see cucumber report.
+
+
+Thanks
