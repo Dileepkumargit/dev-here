@@ -27,7 +27,7 @@ The above task can be completed in two ways.
 1.  one is by through using service
 2.  second one is by using ui.
 
-clone the project : git clone git@github.com:KUMKIYAN/dev-here.git
+clone the project : git clone git@github.com:Dileepkumargit/dev-here.git
 
 import this maven project into eclipse / intellij
 
